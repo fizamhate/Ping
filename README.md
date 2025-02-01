@@ -8,4 +8,4 @@ Basically postman sends a request to the signup,etc endpoint. and then we parse 
 A JWT (JSON Web Token) is a secure, compact, and self-contained way to transmit information between two parties, typically a client and a server. It is commonly used for authentication and authorization in web applications.
 why do we need JWT?
 
-
+??had to add .env to gitignore
