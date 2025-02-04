@@ -9,3 +9,7 @@ A JWT (JSON Web Token) is a secure, compact, and self-contained way to transmit 
 why do we need JWT?
 
 ??had to add .env to gitignore
+
+we use react hot toast library for the sign up error messages
+
+zustand used for global state
